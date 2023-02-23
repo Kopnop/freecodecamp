@@ -35,10 +35,10 @@ echo "$($PSQL "SELECT name FROM ((select winner_id AS team_id FROM games where g
           LEFT JOIN teams ON x.team_id=teams.team_id order by name asc;")"
 
 echo -e "\nList of unique winning team names in the whole data set:"
-echo "$($PSQL "SELECT DISTINCT(name) FROM teams INNER JOIN games ON teams.team_id=games.winner_id")"
+echo "$($PSQL "SELECT DISTINCT(name) FROM teams INNER JOIN games ON teams.team_id=games.winner_id order by name asc")"
 
 echo -e "\nYear and team name of all the champions:"
-echo "$($PSQL "SELECT year, name FROM teams INNER JOIN games ON teams.team_id=games.winner_id WHERE round='Final'")"
+echo "$($PSQL "SELECT year, name FROM teams INNER JOIN games ON teams.team_id=games.winner_id WHERE round='Final' order by games.year asc")"
 
 echo -e "\nList of teams that start with 'Co':"
 echo "$($PSQL "SELECT name FROM teams WHERE name LIKE 'Co%'")"
