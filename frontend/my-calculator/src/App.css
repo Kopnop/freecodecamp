@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 96vh;
+    width: 100vw;
+    background: linear-gradient(135deg, rgb(0, 0, 0) 0%, rgb(44, 44, 44) 45%, rgb(44, 44, 44) 55%, rgb(0, 0, 0) 100%);
+}
+
+@media (max-width: 600px) {
+    main {
+        background: none;
+    }
+}
