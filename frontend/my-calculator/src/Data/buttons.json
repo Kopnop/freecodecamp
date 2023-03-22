@@ -1,0 +1,112 @@
+[
+    {
+      "name": "inverse",
+      "displayName": "1/x",
+      "placeholder": "test"
+    },
+    {
+      "name": "sqr",
+      "displayName": "sqr",
+      "placeholder": ""
+    },
+    {
+      "name": "sqrt",
+      "displayName": "sqrt",
+      "placeholder": ""
+    },
+    {
+      "name": "negate",
+      "displayName": "+/-",
+      "placeholder": ""
+    },
+    {
+      "name": "clear",
+      "displayName": "AC",
+      "placeholder": ""
+    },
+    {
+      "name": "back",
+      "displayName": "←",
+      "placeholder": ""
+    },
+    {
+      "name": "divide",
+      "displayName": "/",
+      "placeholder": ""
+    },
+    {
+      "name": "seven",
+      "displayName": 7,
+      "placeholder": "base"
+    },
+    {
+      "name": "eight",
+      "displayName": 8,
+      "placeholder": "base"
+    },
+    {
+      "name": "nine",
+      "displayName": 9,
+      "placeholder": "base"
+    },
+    {
+      "name": "multi",
+      "displayName": "*",
+      "placeholder": ""
+    },
+    {
+      "name": "four",
+      "displayName": 4,
+      "placeholder": "base"
+    },
+    {
+      "name": "five",
+      "displayName": 5,
+      "placeholder": "base"
+    },
+    {
+      "name": "six",
+      "displayName": 6,
+      "placeholder": "base"
+    },
+    {
+      "name": "minus",
+      "displayName": "-",
+      "placeholder": ""
+    },
+    {
+      "name": "one",
+      "displayName": 1,
+      "placeholder": "base"
+    },
+    {
+      "name": "two",
+      "displayName": 2,
+      "placeholder": "base"
+    },
+    {
+      "name": "three",
+      "displayName": 3,
+      "placeholder": "base"
+    },
+    {
+      "name": "plus",
+      "displayName": "+",
+      "placeholder": ""
+    },
+    {
+      "name": "zero",
+      "displayName": 0,
+      "placeholder": ""
+    },
+    {
+      "name": "dot",
+      "displayName": ".",
+      "placeholder": "base"
+    },
+    {
+      "name": "equals",
+      "displayName": "=",
+      "placeholder": ""
+    }
+  ]
