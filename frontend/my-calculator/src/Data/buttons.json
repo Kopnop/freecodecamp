@@ -1,112 +1,97 @@
 [
     {
-      "name": "inverse",
-      "displayName": "1/x",
-      "placeholder": "test"
-    },
-    {
-      "name": "sqr",
-      "displayName": "sqr",
-      "placeholder": ""
-    },
-    {
-      "name": "sqrt",
-      "displayName": "sqrt",
-      "placeholder": ""
-    },
-    {
-      "name": "negate",
-      "displayName": "+/-",
-      "placeholder": ""
-    },
-    {
       "name": "clear",
       "displayName": "AC",
-      "placeholder": ""
+      "className": ""
     },
     {
       "name": "back",
       "displayName": "←",
-      "placeholder": ""
+      "className": ""
     },
     {
       "name": "divide",
       "displayName": "/",
-      "placeholder": ""
+      "className": ""
     },
     {
       "name": "seven",
       "displayName": 7,
-      "placeholder": "base"
+      "className": "base"
     },
     {
       "name": "eight",
       "displayName": 8,
-      "placeholder": "base"
+      "className": "base"
     },
     {
       "name": "nine",
       "displayName": 9,
-      "placeholder": "base"
+      "className": "base"
     },
     {
-      "name": "multi",
+      "name": "multiply",
       "displayName": "*",
-      "placeholder": ""
+      "className": ""
     },
     {
       "name": "four",
       "displayName": 4,
-      "placeholder": "base"
+      "className": "base"
     },
     {
       "name": "five",
       "displayName": 5,
-      "placeholder": "base"
+      "className": "base"
     },
     {
       "name": "six",
       "displayName": 6,
-      "placeholder": "base"
+      "className": "base"
     },
     {
-      "name": "minus",
+      "name": "subtract",
       "displayName": "-",
-      "placeholder": ""
+      "className": ""
     },
     {
       "name": "one",
       "displayName": 1,
-      "placeholder": "base"
+      "className": "base"
     },
     {
       "name": "two",
       "displayName": 2,
-      "placeholder": "base"
+      "className": "base"
     },
     {
       "name": "three",
       "displayName": 3,
-      "placeholder": "base"
+      "className": "base"
     },
     {
-      "name": "plus",
+      "name": "add",
       "displayName": "+",
-      "placeholder": ""
+      "className": ""
+    },
+    {
+      "name": "negate",
+      "displayName": "+/-",
+      "className": "base"
     },
     {
       "name": "zero",
       "displayName": 0,
-      "placeholder": ""
+      "className": "base"
     },
     {
-      "name": "dot",
+      "name": "decimal",
       "displayName": ".",
-      "placeholder": "base"
+      "className": "base"
     },
     {
       "name": "equals",
       "displayName": "=",
-      "placeholder": ""
+      "className": ""
     }
   ]
